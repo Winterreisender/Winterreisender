@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 由于网络环境问题，本账号仅作为Gitee账号的备份: https://gitee.com/winter_reisender/
-
+<!--
 关于Git分支:  
 单分支: master  
 双分支: master/develop  
@@ -19,3 +19,4 @@
 - master作为"主",在理工科有着悠久的历史,也有"大师"之意,正常人看到"master"不会立刻想到奴隶制,只有魔怔人才会。  
 - 为了保证各个Git平台的兼容性。  
 - 5oiR5Lus5bqU5b2T5YWI5Zyo54mp6LSo5LiK57uZ5LqI5byx5Yq/576k5L2T55yf5q2j55qE5bmz562JLOiAjOmdnuaKm+W8gOeOsOWunuWkp+aQnuaUv+ayu+ato+ehruOAgg==  
+-->
