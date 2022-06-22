@@ -16,16 +16,16 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 - 0.0.1为第一个版本,通常是不完整的软件,0.1.0为第一个完整的软件,1.0.0为第一个稳定的软件
 - 仅在1.0.0之后的current,stable,lts频道中严格遵循语义化版本
 
-
-关于main和master:  
-个人依然在使用master作为主分支而非所谓"不带歧视色彩"的main,原因如下  
-- master作为"主",在理工科有着悠久的历史,也有"大师"之意,正常人看到"master"不会立刻想到奴隶制,只有魔怔人才会。  
-- 为了保证各个Git平台的兼容性。  
-- 5oiR5Lus5bqU5b2T5YWI5Zyo54mp6LSo5LiK57uZ5LqI5byx5Yq/576k5L2T55yf5q2j55qE5bmz562JLOiAjOmdnuaKm+W8gOeOsOWunuWkp+aQnuaUv+ayu+ato+ehruOAgg==  
-
 # Contributor Code of Conduct
 
 My project adheres to No Code of Conduct.  We are all adults.  I accept anyone's contributions.  Nothing else matters.
 For more information please visit the [No Code of Conduct](https://nocodeofconduct.com) homepage.
 
 -->
+
+
+### System Environment
+
+[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
+[![Manjaro Linux](https://img.shields.io/badge/Manjaro%20Linux-34bf5c?style=flat-square&logo=manjaro&logoColor=ffffff)](#)
+[![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
