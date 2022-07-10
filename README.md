@@ -6,7 +6,7 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 
 ### SNS
 
-[![Bitbucket](https://img.shields.io/badge/winterreisender-2686ff?logo=bitbucket&logoColor=ffffff&style=flat-square)](https://bitbucket.org/winterreisender)
+ [![Blog](https://img.shields.io/badge/博客园-468ed7?logo=rss&logoColor=ffffff&style=flat-square)](https://www.cnblogs.com/winterreisender/) [![Bitbucket](https://img.shields.io/badge/Bitbucket-2686ff?logo=bitbucket&logoColor=ffffff&style=flat-square)](https://bitbucket.org/winterreisender) [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=ffffff&style=flat-square)](https://github.com/Winterreisender) 
 
 ### Programming Languages
 
