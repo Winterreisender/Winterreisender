@@ -4,6 +4,10 @@
 
 As an amateur, I mainly make simple GUI applications. Most of them are in Chinese only, but if you do have use cases in other languages, I'll be willing to do the i18n works.
 
+### SNS
+
+[![Bitbucket](https://img.shields.io/badge/winterreisender-2686ff?logo=bitbucket&logoColor=ffffff&style=flat-square)](https://bitbucket.org/winterreisender)
+
 ### Programming Languages
 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=ffffff&style=flat-square)
