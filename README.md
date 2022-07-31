@@ -13,7 +13,7 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=ffffff&style=flat-square)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=ffffff&style=flat-square)](https://www.jetbrains.com/company/brand/)
 
-### System Environment
+### OS
 
 [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Manjaro Linux](https://img.shields.io/badge/Manjaro%20Linux-35BF5C?style=flat-square&logo=manjaro&logoColor=ffffff)](#)
