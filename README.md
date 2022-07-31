@@ -1,8 +1,10 @@
+<!--
 ### Hi there 👋
 
 业余开发,目前主要写一些简单的GUI程序。
 
 As an amateur, I mainly make simple GUI applications. Most of them are in Chinese only, but if you do have use cases in other languages, I'll be willing to do the i18n works.
+-->
 
 ### SNS
 
