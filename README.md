@@ -8,12 +8,21 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 
 ### SNS
 
- [![Blog](https://img.shields.io/badge/博客园-468ed7?logo=rss&logoColor=ffffff&style=flat-square)](https://www.cnblogs.com/winterreisender/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff&style=flat-square)](https://github.com/Winterreisender) [![Bitbucket](https://img.shields.io/badge/Bitbucket-2686ff?logo=bitbucket&logoColor=ffffff&style=flat-square)](https://bitbucket.org/winterreisender) [![GitLab](https://img.shields.io/badge/GitLab-ffffff?logo=gitlab&logoColor=ffffff&style=flat-square)](https://gitlab.com/Winterreisender) 
+ [![Blog](https://img.shields.io/badge/博客园-468ed7?logo=rss&logoColor=ffffff&style=flat-square)](https://www.cnblogs.com/winterreisender/)
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff&style=flat-square)](https://github.com/Winterreisender)
+ [![Bitbucket](https://img.shields.io/badge/Bitbucket-2686ff?logo=bitbucket&logoColor=ffffff&style=flat-square)](https://bitbucket.org/winterreisender)
+ [![GitLab](https://img.shields.io/badge/GitLab-ffffff?logo=gitlab&logoColor=ffffff&style=flat-square)](https://gitlab.com/Winterreisender) 
 
 ### Programming Languages
 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=ffffff&style=flat-square)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=ffffff&style=flat-square)](https://www.jetbrains.com/company/brand/)
+
+<!--
+![JS](https://img.shields.io/badge/EcmaScript-b6a100?logo=javascript&logoColor=ffffff&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff&style=flat-square)
+-->
+
 
 ### OS
 
