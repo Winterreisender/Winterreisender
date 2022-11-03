@@ -41,3 +41,5 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 
 I'll try to check my GitHub at least once a week.
 
+![moe-counter](https://count.getloli.com/get/@:winterreisender2019?theme=moebooru)
+
