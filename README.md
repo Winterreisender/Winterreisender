@@ -13,10 +13,9 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
  [![Email](https://img.shields.io/badge/Email-blue?logoColor=ffffff&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDQ4IDQ4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik00IDM5SDQ0VjI0VjlIMjRINFYyNFYzOVoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTQgOUwyNCAyNEw0NCA5IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTI0IDlINFYyNCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik00NCAyNFY5SDI0IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+)](mailto:winterreisender@foxmail.com)
  [![Blog](https://img.shields.io/badge/博客园-468ed7?logo=rss&logoColor=ffffff&style=flat-square)](https://www.cnblogs.com/winterreisender/)
  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff&style=flat-square)](https://github.com/Winterreisender)
- [![Bitbucket](https://img.shields.io/badge/Bitbucket-2686ff?logo=bitbucket&logoColor=ffffff&style=flat-square)](https://bitbucket.org/winterreisender)
  [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=ffffff&style=flat-square)](https://codeberg.org/winterreisender/)
  [![GitLab](https://img.shields.io/badge/GitLab-ffffff?logo=gitlab&logoColor=ffffff&style=flat-square)](https://gitlab.com/Winterreisender) 
-
+ <!-- [![Bitbucket](https://img.shields.io/badge/Bitbucket-2686ff?logo=bitbucket&logoColor=ffffff&style=flat-square)](https://bitbucket.org/winterreisender) -->
 
 ### Programming Languages
 
