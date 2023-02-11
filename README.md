@@ -31,7 +31,7 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 ### OS
 
 [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](#)
-[![Manjaro Linux](https://img.shields.io/badge/Manjaro%20Linux-35BF5C?style=flat-square&logo=manjaro&logoColor=ffffff)](#)
+[![Fedora Linux](https://img.shields.io/badge/Fedora%20Linux-51a2da?style=flat-square&logo=fedora&logoColor=ffffff)](#)
 [![Android 12](https://img.shields.io/badge/Android%2012-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](#)
 
 ### Background
