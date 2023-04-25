@@ -14,7 +14,6 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
  [![Blog](https://img.shields.io/badge/博客园-468ed7?logo=rss&logoColor=ffffff&style=flat-square)](https://www.cnblogs.com/winterreisender/)
  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff&style=flat-square)](https://github.com/Winterreisender)
  [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=ffffff&style=flat-square)](https://codeberg.org/winterreisender/)
- [![GitLab](https://img.shields.io/badge/GitLab-ffffff?logo=gitlab&logoColor=ffffff&style=flat-square)](https://gitlab.com/Winterreisender) 
  <!-- [![Bitbucket](https://img.shields.io/badge/Bitbucket-2686ff?logo=bitbucket&logoColor=ffffff&style=flat-square)](https://bitbucket.org/winterreisender) -->
 
 <!--
