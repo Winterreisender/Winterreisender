@@ -46,7 +46,6 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 ### Others
 
 I'll try to check my GitHub at least once a week.  
-It's getting increasingly difficult to access GitHub due to my Internet environment. Don't be suprised if you can not find me in GitHub in the future.
 Avatar credit: [ミニねこメーカー](https://picrew.me/image_maker/35494)
 
 ![moe-counter](https://count.getloli.com/get/@:winterreisender2019?theme=moebooru)
