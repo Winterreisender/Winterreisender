@@ -38,10 +38,10 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 
 ### Certifications
 
-![](https://img.shields.io/badge/NCRE-Level%202%20C%20Programming%20Language-lightblue)
-![](https://img.shields.io/badge/NCRE-Level%203%20Information%20Security-darkred)
-![](https://img.shields.io/badge/CET6-590-blue)
-![](https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20and%20Data%20Structures-yellow)
+![](https://img.shields.io/badge/NCRE-Level%202%20C%20Programming%20Language-lightblue&style=flat-square)
+![](https://img.shields.io/badge/NCRE-Level%203%20Information%20Security-darkred&style=flat-square)
+![](https://img.shields.io/badge/CET6-590-blue&style=flat-square)
+![](https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20and%20Data%20Structures-yellow&style=flat-square)
 
 ### Others
 
