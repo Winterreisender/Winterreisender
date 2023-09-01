@@ -6,8 +6,9 @@
 As an amateur, I mainly make simple GUI applications. Most of them are in Chinese only, but if you do have use cases in other languages, I'll be willing to do the i18n works.
 -->
 # Hi there 👋
-
 - I'm an ordinay IT amateur.
+- Create things are interesting!
+<!--- I don't want to change the world, I just dont't want to let the world change me.-->
 
 # Status of me
 Recently I have an overwhelming postgraduate life and work from 8:30 to 21:00, 6 days a week in the lab, so the maintaince of my open source project will slow down.
