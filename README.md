@@ -7,7 +7,7 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 -->
 # Hi there 👋
 - I'm an ordinay IT amateur.
-- Create things are interesting!
+- Creating things are interesting!
 <!--- I don't want to change the world, I just dont't want to let the world change me.-->
 
 # Status of me
