@@ -7,15 +7,6 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 -->
 # Hi there 👋
 - I'm an ordinay IT amateur.
-- Creating somethings are interesting!
-<!--- I don't want to change the world, I just dont't want to let the world change me.-->
-
-# Status of me
-Recently I have an overwhelming postgraduate life and work from 8:30 to 21:00, 6 days a week in the lab, so the maintaince of my open source project will slow down.
-
-Since my postgraduate life started, my best days for open source projects, and for my hobbies, have passed.  I have to work from 8:30 to 21:00, 6 days a week in the lab now. Therefore I won't be able to have a whole week writing codes anymore. I'm still trying to accept this fact while seeking for ways to reduce the overwhelming work hours, maybe try to talk with my supervisor for more spare time. 
-Although the living condition was not so good, I really miss my undergraduate time, when I met lots of insteresting people and started my first open source project.
-
 
 # SNS
  [![Email](https://img.shields.io/badge/Email-blue?logoColor=ffffff&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDQ4IDQ4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik00IDM5SDQ0VjI0VjlIMjRINFYyNFYzOVoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTQgOUwyNCAyNEw0NCA5IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTI0IDlINFYyNCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik00NCAyNFY5SDI0IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+)](mailto:winterreisender@foxmail.com)
@@ -26,13 +17,9 @@ Although the living condition was not so good, I really miss my undergraduate ti
 
 # Programming Languages
 
-Familar:
-![JS](https://img.shields.io/badge/JS-f0db4e?logo=javascript&logoColor=ffffff&style=flat-square&captionColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff&style=flat-square)
-
-Novice:
+![JS](https://img.shields.io/badge/JS-f0db4e?logo=javascript&logoColor=ffffff&style=flat-square&captionColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=ffffff&style=flat-square)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=ffffff&style=flat-square)](https://www.jetbrains.com/company/brand/)
 
 <!--
 # OS
