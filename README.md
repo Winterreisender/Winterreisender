@@ -39,6 +39,6 @@ As an amateur, I mainly make simple GUI applications. Most of them are in Chines
 ![](https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20and%20Data%20Structures-lightblue?style=flat-square)
 
 # Others
-Avatar credit: [ミニねこメーカー](https://picrew.me/image_maker/35494)
+The avatar is created by [匣子](https://hypotenuseleg.lofter.com/?page=2&t=1729475258898), licensed under Public Domain.
 
 ![moe-counter](https://count.getloli.com/get/@:winterreisender2019?theme=moebooru)
